@@ -1,0 +1,7 @@
+#Phien ban python 2.7
+#Cai dat cac lenh sau tren Command Prompt
+pip install numpy
+pip install opencv
+pip install scikit-image
+pip install scipy
+#Khoi dong chuong trinh bang file "main.py"
